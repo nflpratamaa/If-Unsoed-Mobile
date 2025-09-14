@@ -10,4 +10,4 @@
 ## Screenshot
 Tampilan aplikasi:
 
-![Screenshot](sspert2.jpg)
+![Screenshot](ssprakpert2.jpg)
