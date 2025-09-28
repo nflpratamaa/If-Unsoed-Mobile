@@ -21,4 +21,14 @@ Tampilan aplikasi (Pertemuan 2):
 
 Berikut adalah demo aplikasi yang memperlihatkan **perpindahan halaman**:
 
-<video src="demopert3.mp4" controls></video>
+[Klik di sini untuk melihat demo](demopert3.mp4)
+
+---
+
+# Tugas 3 Pertemuan 4
+
+## Demo Aplikasi
+
+Berikut adalah demo aplikasi yang memperlihatkan **tampilan data yang didapat**:
+
+[Klik di sini untuk melihat demo](demopert4.mp4)
