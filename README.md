@@ -21,4 +21,4 @@ Tampilan aplikasi (Pertemuan 2):
 
 Berikut adalah demo aplikasi yang memperlihatkan **perpindahan halaman**:
 
-<video src="demo/demopert3.mp4" controls></video>
+<video src="demopert3.mp4" controls></video>
