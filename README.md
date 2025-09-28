@@ -21,4 +21,4 @@ Tampilan aplikasi (Pertemuan 2):
 
 Berikut adalah demo aplikasi yang memperlihatkan **perpindahan halaman**:
 
-![Demo Aplikasi](demopert3.gif)
+![Demo Aplikasi](demopert3.mkv)
