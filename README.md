@@ -41,3 +41,11 @@ Berikut adalah demo aplikasi yang memperlihatkan **tampilan data yang didapat**:
 Berikut adalah demo aplikasi :
 
 [Klik di sini untuk melihat demo](demopert5.mp4)
+
+
+### Catatan
+
+Saya ingin memohon maaf kepada Asprak @MasBagus dan @MasAbhirama karena baru dapat mengerjakan dan mengumpulkan tugas ini.  
+Minggu ini saya sedang kurang sehat, sehingga pengerjaan tugas sempat tertunda.  
+Mohon maaf sebesar-besarnya. Terima kasih 🙏
+
