@@ -37,7 +37,7 @@
         android:layout_marginTop="16dp"
         android:background="@color/colorSecondary"
         android:padding="4dp"
-        android:text="Profil Lulusan"
+        android:text="@string/profil_lulusan"
         android:textColor="@color/colorPrimary"
         android:textSize="30sp"
         android:textStyle="bold"
@@ -72,13 +72,13 @@
                     android:layout_height="wrap_content"
                     android:justificationMode="inter_word"
                     android:padding="20dp"
-                    android:text="Lulusan Program Studi Infromatika Unsoed sebagain besar..."
+                    android:text="@string/desc_lulusan"
                     android:textSize="14sp"
                     android:textStyle="italic" />
             </com.google.android.material.card.MaterialCardView>
 
             <LinearLayout
-                androidLid="@+id/linear_layout_profil"
+                android:id="@+id/linear_layout_profil"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
@@ -108,6 +108,14 @@
 
                 <include
                     android:id="@+id/layout_ig"
+                    layout="@layout/layout_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginBottom="4dp" />
+
+                <include
+                    android:id="@+id/layout_book"
                     layout="@layout/layout_menu"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

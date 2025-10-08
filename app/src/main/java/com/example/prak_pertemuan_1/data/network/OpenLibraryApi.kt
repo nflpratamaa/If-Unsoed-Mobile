@@ -1,16 +1,15 @@
 package com.example.prak_pertemuan_1.data.network
 
-import com.example.prak_pertemuan_1.data.mobile.SearchResponse
+import com.example.prak_pertemuan_1.data.model.SearchResponse
+import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
-import retrofit2.Response
 
 interface OpenLibraryApi {
 
-    @GET(value = "search.json")
+    @GET("search.json")
     suspend fun searchBooks(
-        @Query(value = "q") query: String,
-        @Query(value = "limit") limit: Int
-
+        @Query("q") query: String,
+        @Query("limit") limit: Int
     ): Response<SearchResponse>
 }
